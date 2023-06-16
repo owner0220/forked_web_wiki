@@ -1,0 +1,9 @@
+[submodule "just-the-docs"]
+	path = just-the-docs
+	url = git@github.com:just-the-docs/just-the-docs.git
+[submodule "BookStack"]
+	path = BookStack
+	url = git@github.com:BookStackApp/BookStack.git
+[submodule "wiki"]
+	path = wiki
+	url = git@github.com:requarks/wiki.git
